@@ -57,7 +57,15 @@ El conjunto de datos cuenta con **7.591 imágenes faciales** de personas con eda
 ## 📂 Archivos Principales
 * `Proyecto_Rho_Estimacion_de_Edad.ipynb`
 * `labels.csv`
-* `final_files/`
+* `final_files.7z.001`
+* `final_files.7z.002`
+* `final_files.7z.003`
+* `final_files.7z.004`
+* `final_files.7z.005`
+* `final_files.7z.006`
+* `final_files.7z.007`
+* `final_files.7z.008`
+* `final_files.7z.009`
 
 ## 🏁 Conclusión
 Se desarrolló con éxito un sistema de visión artificial basado en **ResNet50** capaz de estimar la edad facial con un **MAE de 8.13 años**. La solución cumple el objetivo exploratorio de **Good Seed** como herramienta de apoyo preventivo en la venta de bebidas alcohólicas. Para futuras iteraciones se recomienda incorporar aumento de datos (*Data Augmentation*), parada temprana (*Early Stopping*) y descongelamiento parcial de capas (*Fine-Tuning*) para reducir aún más el error de generalización.
